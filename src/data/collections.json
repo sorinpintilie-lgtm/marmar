@@ -1,0 +1,58 @@
+[
+  {
+    "slug": "new-in",
+    "title": "New In",
+    "description": "Fresh arrivals in warm light — quiet silhouettes and soft structure.",
+    "heroImage": "https://source.unsplash.com/2400x900/?fashion,editorial,warm&sig=910",
+    "featured": true
+  },
+  {
+    "slug": "dresses",
+    "title": "Dresses",
+    "description": "Evening ease and day-to-night shapes, editorial-first.",
+    "heroImage": "https://source.unsplash.com/2400x900/?fashion,dress,editorial,warm&sig=911",
+    "featured": true
+  },
+  {
+    "slug": "essentials",
+    "title": "Essentials",
+    "description": "Clean core pieces. Texture, tone, restraint.",
+    "heroImage": "https://source.unsplash.com/2400x900/?fashion,minimal,editorial,warm&sig=912",
+    "featured": true
+  },
+  {
+    "slug": "tops",
+    "title": "Tops",
+    "description": "Soft structure, warm tones, clean lines.",
+    "heroImage": "https://source.unsplash.com/2400x900/?fashion,top,editorial,warm&sig=913",
+    "featured": false
+  },
+  {
+    "slug": "bottoms",
+    "title": "Bottoms",
+    "description": "Tailoring, drape, movement — understated.",
+    "heroImage": "https://source.unsplash.com/2400x900/?fashion,trousers,editorial,warm&sig=914",
+    "featured": false
+  },
+  {
+    "slug": "outerwear",
+    "title": "Outerwear",
+    "description": "Warm layers with editorial silhouettes.",
+    "heroImage": "https://source.unsplash.com/2400x900/?fashion,coat,editorial,warm&sig=915",
+    "featured": false
+  },
+  {
+    "slug": "sets",
+    "title": "Sets",
+    "description": "Matching pieces that look like a story.",
+    "heroImage": "https://source.unsplash.com/2400x900/?fashion,style,editorial,warm&sig=916",
+    "featured": false
+  },
+  {
+    "slug": "accessories",
+    "title": "Accessories",
+    "description": "Small details, warm metals, soft leather.",
+    "heroImage": "https://source.unsplash.com/2400x900/?fashion,accessories,editorial,warm&sig=917",
+    "featured": false
+  }
+]

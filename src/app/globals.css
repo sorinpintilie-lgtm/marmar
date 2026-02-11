@@ -1,26 +1,30 @@
-@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
+/* Warm editorial theme */
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --paper: 246 241 232; /* warm bone */
+  --ink: 27 27 27;      /* soft black */
+  --muted: 93 86 78;    /* warm gray-brown */
+  --line: 217 209 199;  /* warm line */
+  --clay: 166 124 91;   /* cocoa/clay */
+  --olive: 110 118 94;  /* muted olive */
+  --card: 252 249 244;  /* slightly brighter paper */
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html, body {
+  height: 100%;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans);
+}
+
+h1, h2, h3, .font-editorial {
+  font-family: var(--font-serif);
+}
+
+::selection {
+  background: rgba(166, 124, 91, 0.25);
 }

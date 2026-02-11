@@ -1,0 +1,31 @@
+[
+  {
+    "slug": "ss25",
+    "title": "SS25",
+    "subtitle": "Warm afternoon, calm movement",
+    "heroImage": "https://source.unsplash.com/2400x1050/?fashion,summer,editorial,warm&sig=920",
+    "body": "A season built on warm neutrals, soft contrasts, and quiet confidence. Keep the styling minimal; let fabric and posture do the work.",
+    "productSlugs": [
+      "silk-wrap-dress-amber",
+      "linen-shirt-ivory",
+      "column-skirt-clay",
+      "linen-set-ivory",
+      "satin-cami-sand",
+      "minimal-midi-dress-clay"
+    ]
+  },
+  {
+    "slug": "fw24",
+    "title": "FW24",
+    "subtitle": "Low light, deeper tones",
+    "heroImage": "https://source.unsplash.com/2400x1050/?fashion,autumn,editorial,warm&sig=921",
+    "body": "More shadow, more depth. Editorial cuts, sharper lines — still warm, never harsh.",
+    "productSlugs": [
+      "wool-coat-cocoa",
+      "satin-slip-dress-onyx",
+      "tailored-trousers-warm-black",
+      "wrap-blazer-umber",
+      "trench-coat-sand"
+    ]
+  }
+]

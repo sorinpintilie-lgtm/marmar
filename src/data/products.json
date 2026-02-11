@@ -1,0 +1,583 @@
+[
+  {
+    "id": "p001",
+    "slug": "silk-wrap-dress-amber",
+    "title": "Silk Wrap Dress — Amber",
+    "description": "Warm shine, quiet neckline, clean movement.",
+    "createdAt": "2026-02-01",
+    "collections": ["new-in", "dresses"],
+    "season": "ss25",
+    "tags": ["silk", "evening", "warm-tones"],
+    "options": { "colors": ["Amber", "Ivory"], "sizes": ["XS", "S", "M", "L"] },
+    "variants": [
+      { "color": "Amber", "size": "XS", "inStock": true },
+      { "color": "Amber", "size": "S", "inStock": true },
+      { "color": "Amber", "size": "M", "inStock": false },
+      { "color": "Amber", "size": "L", "inStock": true },
+      { "color": "Ivory", "size": "XS", "inStock": true },
+      { "color": "Ivory", "size": "S", "inStock": true },
+      { "color": "Ivory", "size": "M", "inStock": true },
+      { "color": "Ivory", "size": "L", "inStock": true }
+    ],
+    "images": [
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,dress,editorial,warm&sig=1", "type": "editorial" },
+      { "src": "https://source.unsplash.com/1600x2000/?silk,fabric,detail,warm&sig=2", "type": "detail" },
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,studio,neutral,warm&sig=3", "type": "detail" }
+    ]
+  },
+  {
+    "id": "p002",
+    "slug": "linen-shirt-ivory",
+    "title": "Linen Shirt — Ivory",
+    "description": "Crisp linen, soft volume, warm daylight.",
+    "createdAt": "2026-01-30",
+    "collections": ["new-in", "essentials", "tops"],
+    "season": "ss25",
+    "tags": ["linen", "daywear", "clean-lines"],
+    "options": { "colors": ["Ivory", "Sand"], "sizes": ["XS", "S", "M", "L"] },
+    "variants": [
+      { "color": "Ivory", "size": "XS", "inStock": true },
+      { "color": "Ivory", "size": "S", "inStock": true },
+      { "color": "Ivory", "size": "M", "inStock": true },
+      { "color": "Ivory", "size": "L", "inStock": true },
+      { "color": "Sand", "size": "XS", "inStock": true },
+      { "color": "Sand", "size": "S", "inStock": false },
+      { "color": "Sand", "size": "M", "inStock": true },
+      { "color": "Sand", "size": "L", "inStock": true }
+    ],
+    "images": [
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,shirt,editorial,warm&sig=4", "type": "editorial" },
+      { "src": "https://source.unsplash.com/1600x2000/?linen,texture,detail,warm&sig=5", "type": "detail" },
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,portrait,neutral,warm&sig=6", "type": "detail" }
+    ]
+  },
+  {
+    "id": "p003",
+    "slug": "column-skirt-clay",
+    "title": "Column Skirt — Clay",
+    "description": "Clean column shape with subtle movement.",
+    "createdAt": "2026-01-28",
+    "collections": ["new-in", "essentials", "bottoms"],
+    "season": "ss25",
+    "tags": ["minimal", "texture", "warm-tones"],
+    "options": { "colors": ["Clay", "Olive"], "sizes": ["XS", "S", "M", "L"] },
+    "variants": [
+      { "color": "Clay", "size": "XS", "inStock": true },
+      { "color": "Clay", "size": "S", "inStock": true },
+      { "color": "Clay", "size": "M", "inStock": true },
+      { "color": "Clay", "size": "L", "inStock": false },
+      { "color": "Olive", "size": "XS", "inStock": true },
+      { "color": "Olive", "size": "S", "inStock": true },
+      { "color": "Olive", "size": "M", "inStock": false },
+      { "color": "Olive", "size": "L", "inStock": true }
+    ],
+    "images": [
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,skirt,editorial,warm&sig=7", "type": "editorial" },
+      { "src": "https://source.unsplash.com/1600x2000/?fabric,texture,detail,warm&sig=8", "type": "detail" },
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,studio,style,warm&sig=9", "type": "detail" }
+    ]
+  },
+  {
+    "id": "p004",
+    "slug": "soft-knit-top-olive",
+    "title": "Soft Knit Top — Olive",
+    "description": "Understated knit, warm olive tone, easy shape.",
+    "createdAt": "2026-01-25",
+    "collections": ["essentials", "tops"],
+    "season": "ss25",
+    "tags": ["knit", "olive", "everyday"],
+    "options": { "colors": ["Olive", "Ivory"], "sizes": ["XS", "S", "M", "L"] },
+    "variants": [
+      { "color": "Olive", "size": "XS", "inStock": true },
+      { "color": "Olive", "size": "S", "inStock": true },
+      { "color": "Olive", "size": "M", "inStock": true },
+      { "color": "Olive", "size": "L", "inStock": true },
+      { "color": "Ivory", "size": "XS", "inStock": true },
+      { "color": "Ivory", "size": "S", "inStock": true },
+      { "color": "Ivory", "size": "M", "inStock": false },
+      { "color": "Ivory", "size": "L", "inStock": true }
+    ],
+    "images": [
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,knit,editorial,warm&sig=10", "type": "editorial" },
+      { "src": "https://source.unsplash.com/1600x2000/?knit,texture,detail,warm&sig=11", "type": "detail" },
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,minimal,neutral,warm&sig=12", "type": "detail" }
+    ]
+  },
+  {
+    "id": "p005",
+    "slug": "pleated-midi-dress-ivory",
+    "title": "Pleated Midi Dress — Ivory",
+    "description": "Airy pleats, warm light, editorial calm.",
+    "createdAt": "2026-01-22",
+    "collections": ["dresses", "new-in"],
+    "season": "ss25",
+    "tags": ["pleats", "day-to-night", "ivory"],
+    "options": { "colors": ["Ivory"], "sizes": ["XS", "S", "M", "L"] },
+    "variants": [
+      { "color": "Ivory", "size": "XS", "inStock": true },
+      { "color": "Ivory", "size": "S", "inStock": true },
+      { "color": "Ivory", "size": "M", "inStock": true },
+      { "color": "Ivory", "size": "L", "inStock": true }
+    ],
+    "images": [
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,midi,dress,warm&sig=13", "type": "editorial" },
+      { "src": "https://source.unsplash.com/1600x2000/?pleats,detail,fabric,warm&sig=14", "type": "detail" },
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,editorial,model,warm&sig=15", "type": "detail" }
+    ]
+  },
+  {
+    "id": "p006",
+    "slug": "satin-cami-sand",
+    "title": "Satin Cami — Sand",
+    "description": "Soft satin, warm neutral tone, clean neckline.",
+    "createdAt": "2026-01-20",
+    "collections": ["new-in", "tops"],
+    "season": "ss25",
+    "tags": ["satin", "minimal", "warm-tones"],
+    "options": { "colors": ["Sand", "Amber"], "sizes": ["XS", "S", "M", "L"] },
+    "variants": [
+      { "color": "Sand", "size": "XS", "inStock": true },
+      { "color": "Sand", "size": "S", "inStock": true },
+      { "color": "Sand", "size": "M", "inStock": false },
+      { "color": "Sand", "size": "L", "inStock": true },
+      { "color": "Amber", "size": "XS", "inStock": true },
+      { "color": "Amber", "size": "S", "inStock": true },
+      { "color": "Amber", "size": "M", "inStock": true },
+      { "color": "Amber", "size": "L", "inStock": true }
+    ],
+    "images": [
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,top,satin,warm&sig=16", "type": "editorial" },
+      { "src": "https://source.unsplash.com/1600x2000/?satin,texture,detail,warm&sig=17", "type": "detail" },
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,studio,neutral,warm&sig=18", "type": "detail" }
+    ]
+  },
+  {
+    "id": "p007",
+    "slug": "linen-wide-leg-pants-sand",
+    "title": "Linen Wide-Leg Pants — Sand",
+    "description": "Wide-leg linen with warm drape and clean tailoring.",
+    "createdAt": "2026-01-18",
+    "collections": ["bottoms", "essentials"],
+    "season": "ss25",
+    "tags": ["linen", "tailored", "daywear"],
+    "options": { "colors": ["Sand", "Ivory"], "sizes": ["XS", "S", "M", "L"] },
+    "variants": [
+      { "color": "Sand", "size": "XS", "inStock": true },
+      { "color": "Sand", "size": "S", "inStock": true },
+      { "color": "Sand", "size": "M", "inStock": true },
+      { "color": "Sand", "size": "L", "inStock": false },
+      { "color": "Ivory", "size": "XS", "inStock": true },
+      { "color": "Ivory", "size": "S", "inStock": true },
+      { "color": "Ivory", "size": "M", "inStock": false },
+      { "color": "Ivory", "size": "L", "inStock": true }
+    ],
+    "images": [
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,trousers,editorial,warm&sig=19", "type": "editorial" },
+      { "src": "https://source.unsplash.com/1600x2000/?linen,detail,texture,warm&sig=20", "type": "detail" },
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,minimal,style,warm&sig=21", "type": "detail" }
+    ]
+  },
+  {
+    "id": "p008",
+    "slug": "structured-vest-ivory",
+    "title": "Structured Vest — Ivory",
+    "description": "Minimal vest with a clean shoulder line and warm tone.",
+    "createdAt": "2026-01-16",
+    "collections": ["tops", "new-in", "essentials"],
+    "season": "ss25",
+    "tags": ["structured", "minimal", "ivory"],
+    "options": { "colors": ["Ivory"], "sizes": ["XS", "S", "M", "L"] },
+    "variants": [
+      { "color": "Ivory", "size": "XS", "inStock": true },
+      { "color": "Ivory", "size": "S", "inStock": true },
+      { "color": "Ivory", "size": "M", "inStock": true },
+      { "color": "Ivory", "size": "L", "inStock": true }
+    ],
+    "images": [
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,vest,editorial,warm&sig=22", "type": "editorial" },
+      { "src": "https://source.unsplash.com/1600x2000/?tailoring,detail,texture,warm&sig=23", "type": "detail" },
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,studio,neutral,warm&sig=24", "type": "detail" }
+    ]
+  },
+  {
+    "id": "p009",
+    "slug": "bias-cut-skirt-sand",
+    "title": "Bias-Cut Skirt — Sand",
+    "description": "Bias drape that moves softly, warm neutral finish.",
+    "createdAt": "2026-01-14",
+    "collections": ["bottoms", "new-in"],
+    "season": "ss25",
+    "tags": ["bias-cut", "drape", "warm-tones"],
+    "options": { "colors": ["Sand", "Clay"], "sizes": ["XS", "S", "M", "L"] },
+    "variants": [
+      { "color": "Sand", "size": "XS", "inStock": true },
+      { "color": "Sand", "size": "S", "inStock": true },
+      { "color": "Sand", "size": "M", "inStock": true },
+      { "color": "Sand", "size": "L", "inStock": true },
+      { "color": "Clay", "size": "XS", "inStock": true },
+      { "color": "Clay", "size": "S", "inStock": false },
+      { "color": "Clay", "size": "M", "inStock": true },
+      { "color": "Clay", "size": "L", "inStock": true }
+    ],
+    "images": [
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,skirt,style,warm&sig=25", "type": "editorial" },
+      { "src": "https://source.unsplash.com/1600x2000/?fabric,detail,drape,warm&sig=26", "type": "detail" },
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,editorial,neutral,warm&sig=27", "type": "detail" }
+    ]
+  },
+  {
+    "id": "p010",
+    "slug": "minimal-midi-dress-clay",
+    "title": "Minimal Midi Dress — Clay",
+    "description": "A quiet midi with warm tone and clean cut.",
+    "createdAt": "2026-01-12",
+    "collections": ["dresses", "essentials"],
+    "season": "ss25",
+    "tags": ["minimal", "midi", "warm-tones"],
+    "options": { "colors": ["Clay", "Ivory"], "sizes": ["XS", "S", "M", "L"] },
+    "variants": [
+      { "color": "Clay", "size": "XS", "inStock": true },
+      { "color": "Clay", "size": "S", "inStock": true },
+      { "color": "Clay", "size": "M", "inStock": false },
+      { "color": "Clay", "size": "L", "inStock": true },
+      { "color": "Ivory", "size": "XS", "inStock": true },
+      { "color": "Ivory", "size": "S", "inStock": true },
+      { "color": "Ivory", "size": "M", "inStock": true },
+      { "color": "Ivory", "size": "L", "inStock": true }
+    ],
+    "images": [
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,midi,dress,editorial,warm&sig=28", "type": "editorial" },
+      { "src": "https://source.unsplash.com/1600x2000/?dress,detail,texture,warm&sig=29", "type": "detail" },
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,studio,style,warm&sig=30", "type": "detail" }
+    ]
+  },
+  {
+    "id": "p011",
+    "slug": "linen-set-ivory",
+    "title": "Linen Set — Ivory",
+    "description": "Matching linen pieces that read like a story.",
+    "createdAt": "2026-01-10",
+    "collections": ["sets", "new-in"],
+    "season": "ss25",
+    "tags": ["set", "linen", "editorial"],
+    "options": { "colors": ["Ivory", "Sand"], "sizes": ["XS", "S", "M", "L"] },
+    "variants": [
+      { "color": "Ivory", "size": "XS", "inStock": true },
+      { "color": "Ivory", "size": "S", "inStock": true },
+      { "color": "Ivory", "size": "M", "inStock": true },
+      { "color": "Ivory", "size": "L", "inStock": true },
+      { "color": "Sand", "size": "XS", "inStock": true },
+      { "color": "Sand", "size": "S", "inStock": true },
+      { "color": "Sand", "size": "M", "inStock": false },
+      { "color": "Sand", "size": "L", "inStock": true }
+    ],
+    "images": [
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,set,linen,warm&sig=31", "type": "editorial" },
+      { "src": "https://source.unsplash.com/1600x2000/?linen,detail,buttons,warm&sig=32", "type": "detail" },
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,editorial,neutral,warm&sig=33", "type": "detail" }
+    ]
+  },
+  {
+    "id": "p012",
+    "slug": "satin-set-amber",
+    "title": "Satin Set — Amber",
+    "description": "Soft satin set with warm glow and quiet cut.",
+    "createdAt": "2026-01-08",
+    "collections": ["sets"],
+    "season": "ss25",
+    "tags": ["set", "satin", "evening"],
+    "options": { "colors": ["Amber"], "sizes": ["XS", "S", "M", "L"] },
+    "variants": [
+      { "color": "Amber", "size": "XS", "inStock": true },
+      { "color": "Amber", "size": "S", "inStock": true },
+      { "color": "Amber", "size": "M", "inStock": true },
+      { "color": "Amber", "size": "L", "inStock": false }
+    ],
+    "images": [
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,set,satin,warm&sig=34", "type": "editorial" },
+      { "src": "https://source.unsplash.com/1600x2000/?satin,detail,texture,warm&sig=35", "type": "detail" },
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,studio,neutral,warm&sig=36", "type": "detail" }
+    ]
+  },
+  {
+    "id": "p013",
+    "slug": "silk-scarf-clay",
+    "title": "Silk Scarf — Clay",
+    "description": "Warm silk accent with a soft matte shine.",
+    "createdAt": "2026-01-06",
+    "collections": ["accessories", "new-in"],
+    "season": "ss25",
+    "tags": ["silk", "accessory", "warm-tones"],
+    "options": { "colors": ["Clay", "Ivory"], "sizes": ["One size"] },
+    "variants": [
+      { "color": "Clay", "size": "One size", "inStock": true },
+      { "color": "Ivory", "size": "One size", "inStock": true }
+    ],
+    "images": [
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,scarf,editorial,warm&sig=37", "type": "editorial" },
+      { "src": "https://source.unsplash.com/1600x2000/?silk,detail,texture,warm&sig=38", "type": "detail" },
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,accessories,neutral,warm&sig=39", "type": "detail" }
+    ]
+  },
+  {
+    "id": "p014",
+    "slug": "minimal-tote-cocoa",
+    "title": "Minimal Tote — Cocoa",
+    "description": "Soft leather tone, clean shape, warm finish.",
+    "createdAt": "2026-01-04",
+    "collections": ["accessories"],
+    "season": "ss25",
+    "tags": ["bag", "minimal", "cocoa"],
+    "options": { "colors": ["Cocoa"], "sizes": ["One size"] },
+    "variants": [{ "color": "Cocoa", "size": "One size", "inStock": true }],
+    "images": [
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,bag,editorial,warm&sig=40", "type": "editorial" },
+      { "src": "https://source.unsplash.com/1600x2000/?leather,detail,texture,warm&sig=41", "type": "detail" },
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,accessories,warm&sig=42", "type": "detail" }
+    ]
+  },
+  {
+    "id": "p015",
+    "slug": "earrings-brushed-gold",
+    "title": "Earrings — Brushed Gold",
+    "description": "Warm metal detail, minimal presence.",
+    "createdAt": "2026-01-02",
+    "collections": ["accessories"],
+    "season": "ss25",
+    "tags": ["jewelry", "gold", "minimal"],
+    "options": { "colors": ["Brushed Gold"], "sizes": ["One size"] },
+    "variants": [{ "color": "Brushed Gold", "size": "One size", "inStock": true }],
+    "images": [
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,jewelry,editorial,warm&sig=43", "type": "editorial" },
+      { "src": "https://source.unsplash.com/1600x2000/?jewelry,detail,metal,warm&sig=44", "type": "detail" },
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,accessories,neutral,warm&sig=45", "type": "detail" }
+    ]
+  },
+  {
+    "id": "p016",
+    "slug": "wool-coat-cocoa",
+    "title": "Wool Coat — Cocoa",
+    "description": "Warm wool structure with an editorial silhouette.",
+    "createdAt": "2025-11-20",
+    "collections": ["outerwear", "essentials"],
+    "season": "fw24",
+    "tags": ["wool", "outerwear", "warm-tones"],
+    "options": { "colors": ["Cocoa"], "sizes": ["XS", "S", "M", "L"] },
+    "variants": [
+      { "color": "Cocoa", "size": "XS", "inStock": true },
+      { "color": "Cocoa", "size": "S", "inStock": true },
+      { "color": "Cocoa", "size": "M", "inStock": true },
+      { "color": "Cocoa", "size": "L", "inStock": false }
+    ],
+    "images": [
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,coat,editorial,warm&sig=46", "type": "editorial" },
+      { "src": "https://source.unsplash.com/1600x2000/?wool,detail,texture,warm&sig=47", "type": "detail" },
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,outerwear,neutral,warm&sig=48", "type": "detail" }
+    ]
+  },
+  {
+    "id": "p017",
+    "slug": "satin-slip-dress-onyx",
+    "title": "Satin Slip Dress — Onyx",
+    "description": "A darker accent piece — still warm, never cold.",
+    "createdAt": "2025-11-10",
+    "collections": ["dresses"],
+    "season": "fw24",
+    "tags": ["satin", "evening", "minimal"],
+    "options": { "colors": ["Onyx"], "sizes": ["XS", "S", "M", "L"] },
+    "variants": [
+      { "color": "Onyx", "size": "XS", "inStock": true },
+      { "color": "Onyx", "size": "S", "inStock": false },
+      { "color": "Onyx", "size": "M", "inStock": true },
+      { "color": "Onyx", "size": "L", "inStock": true }
+    ],
+    "images": [
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,slip,dress,editorial,warm&sig=49", "type": "editorial" },
+      { "src": "https://source.unsplash.com/1600x2000/?satin,detail,texture,warm&sig=50", "type": "detail" },
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,lowlight,editorial,warm&sig=51", "type": "detail" }
+    ]
+  },
+  {
+    "id": "p018",
+    "slug": "tailored-trousers-warm-black",
+    "title": "Tailored Trousers — Warm Black",
+    "description": "Tailoring that reads sharp but feels soft in motion.",
+    "createdAt": "2025-10-28",
+    "collections": ["bottoms", "essentials"],
+    "season": "fw24",
+    "tags": ["tailored", "minimal", "daywear"],
+    "options": { "colors": ["Warm Black"], "sizes": ["XS", "S", "M", "L"] },
+    "variants": [
+      { "color": "Warm Black", "size": "XS", "inStock": true },
+      { "color": "Warm Black", "size": "S", "inStock": true },
+      { "color": "Warm Black", "size": "M", "inStock": true },
+      { "color": "Warm Black", "size": "L", "inStock": true }
+    ],
+    "images": [
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,trousers,tailored,warm&sig=52", "type": "editorial" },
+      { "src": "https://source.unsplash.com/1600x2000/?tailoring,detail,stitching,warm&sig=53", "type": "detail" },
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,minimal,studio,warm&sig=54", "type": "detail" }
+    ]
+  },
+  {
+    "id": "p019",
+    "slug": "wrap-blazer-umber",
+    "title": "Wrap Blazer — Umber",
+    "description": "Wrap structure with an editorial shoulder line.",
+    "createdAt": "2025-10-12",
+    "collections": ["outerwear", "essentials"],
+    "season": "fw24",
+    "tags": ["tailored", "outerwear", "warm-tones"],
+    "options": { "colors": ["Umber"], "sizes": ["XS", "S", "M", "L"] },
+    "variants": [
+      { "color": "Umber", "size": "XS", "inStock": true },
+      { "color": "Umber", "size": "S", "inStock": true },
+      { "color": "Umber", "size": "M", "inStock": false },
+      { "color": "Umber", "size": "L", "inStock": true }
+    ],
+    "images": [
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,blazer,editorial,warm&sig=55", "type": "editorial" },
+      { "src": "https://source.unsplash.com/1600x2000/?tailoring,detail,lapel,warm&sig=56", "type": "detail" },
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,outerwear,neutral,warm&sig=57", "type": "detail" }
+    ]
+  },
+  {
+    "id": "p020",
+    "slug": "ribbed-turtleneck-cream",
+    "title": "Ribbed Turtleneck — Cream",
+    "description": "Warm rib knit with a clean neck and soft handfeel.",
+    "createdAt": "2025-10-05",
+    "collections": ["tops", "essentials"],
+    "season": "fw24",
+    "tags": ["knit", "cream", "layering"],
+    "options": { "colors": ["Cream"], "sizes": ["XS", "S", "M", "L"] },
+    "variants": [
+      { "color": "Cream", "size": "XS", "inStock": true },
+      { "color": "Cream", "size": "S", "inStock": true },
+      { "color": "Cream", "size": "M", "inStock": true },
+      { "color": "Cream", "size": "L", "inStock": false }
+    ],
+    "images": [
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,turtleneck,editorial,warm&sig=58", "type": "editorial" },
+      { "src": "https://source.unsplash.com/1600x2000/?knit,ribbed,detail,warm&sig=59", "type": "detail" },
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,neutral,portrait,warm&sig=60", "type": "detail" }
+    ]
+  },
+  {
+    "id": "p021",
+    "slug": "knit-cardigan-olive",
+    "title": "Knit Cardigan — Olive",
+    "description": "Soft cardigan for warm layering, minimal presence.",
+    "createdAt": "2025-09-28",
+    "collections": ["outerwear", "tops"],
+    "season": "fw24",
+    "tags": ["cardigan", "olive", "layering"],
+    "options": { "colors": ["Olive", "Cocoa"], "sizes": ["XS", "S", "M", "L"] },
+    "variants": [
+      { "color": "Olive", "size": "XS", "inStock": true },
+      { "color": "Olive", "size": "S", "inStock": true },
+      { "color": "Olive", "size": "M", "inStock": true },
+      { "color": "Olive", "size": "L", "inStock": true },
+      { "color": "Cocoa", "size": "XS", "inStock": true },
+      { "color": "Cocoa", "size": "S", "inStock": false },
+      { "color": "Cocoa", "size": "M", "inStock": true },
+      { "color": "Cocoa", "size": "L", "inStock": true }
+    ],
+    "images": [
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,cardigan,editorial,warm&sig=61", "type": "editorial" },
+      { "src": "https://source.unsplash.com/1600x2000/?knit,detail,buttons,warm&sig=62", "type": "detail" },
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,studio,warm,neutral&sig=63", "type": "detail" }
+    ]
+  },
+  {
+    "id": "p022",
+    "slug": "trench-coat-sand",
+    "title": "Trench Coat — Sand",
+    "description": "Warm trench with clean hardware and editorial line.",
+    "createdAt": "2025-09-18",
+    "collections": ["outerwear"],
+    "season": "fw24",
+    "tags": ["trench", "sand", "outerwear"],
+    "options": { "colors": ["Sand"], "sizes": ["XS", "S", "M", "L"] },
+    "variants": [
+      { "color": "Sand", "size": "XS", "inStock": true },
+      { "color": "Sand", "size": "S", "inStock": true },
+      { "color": "Sand", "size": "M", "inStock": false },
+      { "color": "Sand", "size": "L", "inStock": true }
+    ],
+    "images": [
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,trench,coat,warm&sig=64", "type": "editorial" },
+      { "src": "https://source.unsplash.com/1600x2000/?coat,detail,buttons,warm&sig=65", "type": "detail" },
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,outerwear,editorial,warm&sig=66", "type": "detail" }
+    ]
+  },
+  {
+    "id": "p023",
+    "slug": "leather-belt-umber",
+    "title": "Leather Belt — Umber",
+    "description": "Warm leather detail with minimal buckle.",
+    "createdAt": "2025-09-10",
+    "collections": ["accessories"],
+    "season": "fw24",
+    "tags": ["leather", "belt", "minimal"],
+    "options": { "colors": ["Umber", "Cocoa"], "sizes": ["S", "M", "L"] },
+    "variants": [
+      { "color": "Umber", "size": "S", "inStock": true },
+      { "color": "Umber", "size": "M", "inStock": true },
+      { "color": "Umber", "size": "L", "inStock": true },
+      { "color": "Cocoa", "size": "S", "inStock": true },
+      { "color": "Cocoa", "size": "M", "inStock": false },
+      { "color": "Cocoa", "size": "L", "inStock": true }
+    ],
+    "images": [
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,belt,editorial,warm&sig=67", "type": "editorial" },
+      { "src": "https://source.unsplash.com/1600x2000/?leather,detail,buckle,warm&sig=68", "type": "detail" },
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,accessories,warm,neutral&sig=69", "type": "detail" }
+    ]
+  },
+  {
+    "id": "p024",
+    "slug": "heeled-sandal-umber",
+    "title": "Heeled Sandal — Umber",
+    "description": "Warm leather sandal with clean lines and quiet hardware.",
+    "createdAt": "2025-09-02",
+    "collections": ["accessories", "new-in"],
+    "season": "fw24",
+    "tags": ["shoes", "leather", "umber"],
+    "options": { "colors": ["Umber"], "sizes": ["36", "37", "38", "39", "40"] },
+    "variants": [
+      { "color": "Umber", "size": "36", "inStock": true },
+      { "color": "Umber", "size": "37", "inStock": true },
+      { "color": "Umber", "size": "38", "inStock": true },
+      { "color": "Umber", "size": "39", "inStock": false },
+      { "color": "Umber", "size": "40", "inStock": true }
+    ],
+    "images": [
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,shoes,editorial,warm&sig=70", "type": "editorial" },
+      { "src": "https://source.unsplash.com/1600x2000/?shoes,detail,leather,warm&sig=71", "type": "detail" },
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,studio,neutral,warm&sig=72", "type": "detail" }
+    ]
+  },
+  {
+    "id": "p025",
+    "slug": "cropped-jacket-cocoa",
+    "title": "Cropped Jacket — Cocoa",
+    "description": "Short warm jacket with a clean editorial shoulder.",
+    "createdAt": "2025-08-25",
+    "collections": ["outerwear", "new-in"],
+    "season": "fw24",
+    "tags": ["jacket", "cocoa", "structured"],
+    "options": { "colors": ["Cocoa"], "sizes": ["XS", "S", "M", "L"] },
+    "variants": [
+      { "color": "Cocoa", "size": "XS", "inStock": true },
+      { "color": "Cocoa", "size": "S", "inStock": true },
+      { "color": "Cocoa", "size": "M", "inStock": false },
+      { "color": "Cocoa", "size": "L", "inStock": true }
+    ],
+    "images": [
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,jacket,editorial,warm&sig=73", "type": "editorial" },
+      { "src": "https://source.unsplash.com/1600x2000/?jacket,detail,texture,warm&sig=74", "type": "detail" },
+      { "src": "https://source.unsplash.com/1600x2000/?fashion,outerwear,neutral,warm&sig=75", "type": "detail" }
+    ]
+  }
+]
