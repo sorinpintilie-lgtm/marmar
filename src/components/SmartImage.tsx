@@ -1,44 +1,37 @@
-import NextImage, { ImageProps } from "next/image";
+"use client";
+
+import React from "react";
 import { cn } from "@/lib/cn";
 
-type Props = Omit<ImageProps, "src" | "alt"> & {
+type Props = {
   src: string;
-  alt: string;
-};
+  alt?: string;          // optional, we default to ""
+  fill?: boolean;        // mimic next/image fill
+  className?: string;
+  sizes?: string;        // ignored (kept so you don't need to edit callers)
+  priority?: boolean;     // ignored (Next.js Image specific)
+} & Omit<React.ImgHTMLAttributes<HTMLImageElement>, "priority">;
 
-export default function SmartImage({ src, alt, fill, className, ...rest }: Props) {
-  const isRemote = /^https?:\/\//i.test(src);
-
-  // For remote URLs, use <img> so ANY host works (no Next image config needed).
-  if (isRemote) {
-    // eslint-disable-next-line @next/next/no-img-element
-    return fill ? (
-      <img
-        src={src}
-        alt={alt}
-        className={cn("absolute inset-0 h-full w-full", className)}
-        loading="lazy"
-        decoding="async"
-      />
-    ) : (
-      // eslint-disable-next-line @next/next/no-img-element
-      <img
-        src={src}
-        alt={alt}
-        className={className}
-        loading="lazy"
-        decoding="async"
-      />
-    );
-  }
-
-  // For local images, keep Next/Image benefits.
+export default function SmartImage({
+  src,
+  alt = "",
+  fill,
+  className,
+  priority, // eslint-disable-line @typescript-eslint/no-unused-vars
+  ...rest
+}: Props) {
+  // eslint-disable-next-line @next/next/no-img-element
   return (
-    <NextImage
+    <img
       src={src}
       alt={alt}
-      fill={fill}
-      className={className}
+      loading={rest.loading ?? "lazy"}
+      decoding={rest.decoding ?? "async"}
+      className={cn(
+        fill ? "absolute inset-0 h-full w-full" : "",
+        "object-cover",
+        className
+      )}
       {...rest}
     />
   );
